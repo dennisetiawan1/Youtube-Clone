@@ -35,6 +35,8 @@ nav {
 }
 .nav-right .user-icon{
     width: 35px;
+    height: 35px;
+    object-fit: fill;
     border-radius: 50%;
 }
 @media (max-width:900px){
